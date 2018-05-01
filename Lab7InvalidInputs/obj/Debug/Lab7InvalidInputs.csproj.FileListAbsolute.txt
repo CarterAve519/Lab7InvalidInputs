@@ -1,0 +1,7 @@
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\bin\Debug\Lab7InvalidInputs.exe.config
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\bin\Debug\Lab7InvalidInputs.exe
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\bin\Debug\Lab7InvalidInputs.pdb
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\obj\Debug\Lab7InvalidInputs.csprojResolveAssemblyReference.cache
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\obj\Debug\Lab7InvalidInputs.csproj.CoreCompileInputs.cache
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\obj\Debug\Lab7InvalidInputs.exe
+C:\Users\CARTE\source\repos\Lab7InvalidInputs\Lab7InvalidInputs\obj\Debug\Lab7InvalidInputs.pdb
